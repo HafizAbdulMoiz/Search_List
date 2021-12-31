@@ -1,0 +1,17 @@
+.card {
+    height: 400px; /* Your height here */
+    overflow: hidden;
+}
+
+.card-image {
+    height: 250px; /* Your height here */
+    overflow: hidden;
+}
+body{
+    background-color:lavenderblush;
+    font-family:'Times New Roman', Times, serif
+}
+.nav{
+    background-color: rebeccapurple;
+}
+
